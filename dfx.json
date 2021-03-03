@@ -4,6 +4,10 @@
       "main": "src/services/backend/main.mo",
       "type": "motoko"
     },
+    "proxy": {
+      "main": "src/services/proxy/main.mo",
+      "type": "motoko"
+    },
     "frontend": {
       "dependencies": [
         "backend"
